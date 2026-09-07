@@ -1,3 +1,4 @@
+Personal portfolio website.
 Responsive navigation with a mobile hamburger menu,
 Hero/introduction section,
 About Me,
@@ -8,4 +9,5 @@ Responsive desktop/tablet/mobile layouts,
 Smooth scrolling,
 Hover animations,
 Clean dark developer-style UI,
-No frameworks or libraries
+No frameworks or libraries,
+Technologies:HTML,Javascript,css.
